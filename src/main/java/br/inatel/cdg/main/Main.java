@@ -13,6 +13,8 @@ public class Main {
         Endereco end1 = new Endereco("R1","B1",20);
         Endereco end2 = new Endereco("R2","B2",10);
 
+        int x = 0;
+
         p.addEnd(end);
         p.addEnd(end1);
         p.addEnd(end2);
